@@ -1,2 +1,3 @@
-# hello
-Valaxy Technologies
+# maven-project
+
+Simple Maven Project
