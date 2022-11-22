@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: java-app
-        image: 150100175/myimg:$(BuildId)
+        image: 150100175/myimg:$(Build.BuildId)
         ports:
         - containerPort: 80
 ---  
